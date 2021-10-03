@@ -1,0 +1,10 @@
+Aterm*scrollBar: false
+Aterm*transparent: true
+Aterm*background: black
+Aterm*foreground: white
+Aterm*shading: 60
+Aterm*fading: 55
+Aterm*loginShell: true
+Aterm*saveLines:5000
+Aterm*geometry: 80x25
+Aterm*font: 
